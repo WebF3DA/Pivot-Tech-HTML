@@ -1,0 +1,33 @@
+body{
+background-color: darksalmon;
+}
+
+h1{ 
+    font-size: larger;
+    text-align: center;
+}
+
+.header-class {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+
+h3{ 
+    font-style: italic;
+    text-align: left;
+}
+
+img{
+    /*padding: 50px: */
+    
+    
+}
+
+form {
+    border: darkseagreen 10px solid ; 
+    width: 500px;
+    padding:15px;
+    border-radius: 10px;
+}
+
+
